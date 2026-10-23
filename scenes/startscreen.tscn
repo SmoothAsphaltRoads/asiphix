@@ -50,12 +50,12 @@ layout_mode = 2
 theme_override_colors/font_color = Color(0.5921569, 0.45882353, 0.6509804, 1)
 theme_override_colors/font_outline_color = Color(0.16470589, 0.101960786, 0.2, 1)
 theme_override_font_sizes/font_size = 150
-text = "put name here later"
+text = "asiphix: a platformer"
 
 [node name="subtitle" type="Label" parent="UI/Menu/Content/VBox" unique_id=1114692935]
 layout_mode = 2
 theme_override_colors/font_color = Color(0.6622739, 0.53345335, 0.7196958, 1)
-text = "Made for hack club ( third space) in 3 weeks"
+text = "Made for hack club (pixl)"
 
 [node name="Gap" type="Control" parent="UI/Menu/Content/VBox" unique_id=1511762549]
 custom_minimum_size = Vector2(0, 60)
